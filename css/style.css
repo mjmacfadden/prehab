@@ -1,3 +1,12 @@
+html, body, .wrapper{
+    height:100%;
+    width:100%;
+}
 body{
     text-align:center;
 }
+iframe{
+    height:100%;
+    width:100%;
+}
+
